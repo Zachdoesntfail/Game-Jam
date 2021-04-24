@@ -20,5 +20,8 @@ Kenney.nl, Freesound.org
 none
 
 # Created by: The Giant Bears
-Grant Rude, Zach Johnson, Jasmine Young, Brayden Reaves
+Grant Rude: Head Programmer
+Zach Johnson: Project Manager
+Jasmine Young: Asset Retriever
+Brayden Reaves: Level Designer
 
