@@ -8,7 +8,7 @@ Our group decided that the best way to represent the theme would be a 2D platfor
 The objective of this game is to lose as many lives as fast as you can.
 
 ## Impediments
-Our game was wiped twice and we had to restart multiple times. 
+Our game was wiped twice and we had to restart multiple times, which led to us having to use multiple repositories, this is our third. 
 
 ## Implementation
 Built using Godot 3.2.3, Includes a user-controlled player, includes camera, a menu
