@@ -7,6 +7,8 @@ var max_health = 10
 var time = 0
 
 
+
+
 func _ready():
 	pause_mode = Node.PAUSE_MODE_PROCESS
 	
@@ -29,6 +31,9 @@ func decrease_lives(l):
 	health = max_health
 	if lives <= 0:
 		get_tree().change_scene("res://HUD/Win.tscn")
+
+func time(t):
+	time += 1
 
 func _process(_delta):
 	pass
