@@ -19,6 +19,6 @@ Kenney.nl, Freesound.org
 ## Future Development
 none
 
-# Created by: Group Name
-The Giant Bears, Grant Rude, Zach Johnson, Jasmine Young, Brayden Reaves
+# Created by: The Giant Bears
+Grant Rude, Zach Johnson, Jasmine Young, Brayden Reaves
 
