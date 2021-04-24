@@ -4,6 +4,7 @@ var lives = 10
 var max_lives = 10
 var health = 10
 var max_health = 10
+var time = 0
 
 
 func _ready():
