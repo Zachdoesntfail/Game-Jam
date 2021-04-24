@@ -1,4 +1,4 @@
-# Game_Jam
+# Project Name
 MSCH-C220 Game Jam, April 2021
 
 ## Theme
@@ -21,3 +21,4 @@ none
 
 # Created by: Group Name
 The Giant Bears, Grant Rude, Zach Johnson, Jasmine Young, Brayden Reaves
+
