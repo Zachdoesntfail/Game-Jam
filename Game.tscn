@@ -295,8 +295,10 @@ __meta__ = {
 
 [node name="Time" type="Label" parent="CanvasLayer/HUD"]
 margin_left = 900.0
+margin_top = 5.0
 margin_right = 940.0
-margin_bottom = 14.0
+margin_bottom = 19.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
 text = "Time:"
 align = 2
 valign = 1
@@ -306,8 +308,10 @@ __meta__ = {
 
 [node name="Lives" type="Label" parent="CanvasLayer/HUD"]
 margin_left = 10.0
+margin_top = 5.0
 margin_right = 50.0
-margin_bottom = 14.0
+margin_bottom = 19.0
+custom_colors/font_color = Color( 0, 0, 0, 1 )
 text = "Lives:"
 valign = 1
 __meta__ = {
